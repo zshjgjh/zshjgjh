@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zuhor</h1>
 <h3 align="center">A passionate frontend developer from Syria</h3>
 
+- 📫 How to reach me **zuhorsaeed1993@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/zuhor saeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zuhor saeed" height="30" width="40" /></a>
